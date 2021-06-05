@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhverma844" alt="rishabhverma844" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishabhverma844/](https://github.com/rishabhverma844/)
+- 👨‍💻 All of my projects are available at <img align="center" src="https://github.com/rishabhverma844/rishabhverma844/blob/main/git.png" alt="git" height="30" width="30" /> [**https://github.com/rishabhverma844/**](https://github.com/rishabhverma844/)
 
-- 📫 How to reach me **rishabhverma844@gmail.com**
+- 📫 You can reach me at <img align="center" src="https://github.com/rishabhverma844/rishabhverma844/blob/main/gmail.svg" alt="gmail" height="30" width="30" /> **rishabhverma844@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
