@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Verma</h1>
+<h1 align="center">Hi नमस्ते 👋, I'm Rishabh Verma</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from India</h3>
 <br>
 
