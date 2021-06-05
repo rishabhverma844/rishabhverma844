@@ -3,6 +3,8 @@
 <br>
 
 ![alt text](https://github.com/rishabhverma844/rishabhverma844/blob/main/banner.png) 
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
+![image title](https://rushter.com/counter.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhverma844&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhverma844" /> </p>
 
