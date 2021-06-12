@@ -42,7 +42,8 @@
 <a href="https://github.com" target="_blank"> <img src="https://github.com/rishabhverma844/rishabhverma844/blob/main/jmeter.png" alt="jmeter" width="40" height="40" hspace="5"/>
 </a> 
 <a href="https://github.com" target="_blank"> <img src="https://github.com/rishabhverma844/rishabhverma844/blob/main/uipath.png" alt="uipath" width="40" height="40" hspace="5"/> 
-</a> </p>
+</a> 
+</p>
 
 
 
